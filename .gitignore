@@ -1,1 +1,4 @@
-config.env 
+config.env
+${API_KEY}.env
+*.env
+
