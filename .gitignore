@@ -1,4 +1,6 @@
 config.env
 ${API_KEY}.env
 *.env
+temp.txt
+
 
